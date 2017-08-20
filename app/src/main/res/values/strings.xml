@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExRate</string>
+    <string name="action_settings">Change Language</string>
+        <string-array name="Currency">
+            <item>EUR</item>
+            <item>PLN</item>
+            <item>GBP</item>
+            <item>USD</item>
+        </string-array>
+    <string name="string_arr_title">Pick Currency</string>
+    <string name="choose">Choose</string>
+    <string name="rate">Exchange rate: </string>
+    <string name="result">Result: </string>
+    <string name="from">Choose currency: </string>
+    <string name="to">Exchange to: </string>
+    <string name="sum">Sum </string>
+    <string name="ex_btn">Exchange</string>
+    <string name="missing">Please enter sum!</string>
+</resources>
